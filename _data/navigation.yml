@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: /prova/
   - title: "People"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /splash-page/
   - title: "Recent Works"
     url: /year-archive/
   - title: "Positions"
