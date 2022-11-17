@@ -1,6 +1,6 @@
 ---
 title: "People"
-layout: splash
+layout: home
 permalink: /people/
 header:
   overlay_color: "#000"
