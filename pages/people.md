@@ -3,7 +3,7 @@ title: "People"
 layout: splash
 permalink: /people/
 header:
-  overlay_image: /assets/images/grupppo.jpg
+  image: /assets/images/grupppo.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Belli, belli in modo assurdo."
 intro: 
