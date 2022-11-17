@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Belli, belli in modo assurdo."
 intro: 
-  - excerpt: 'Il gruppo più bello della StatMech'
+  - excerpt: "Il gruppo più bello della StatMech"
 feature_row2:
   - image_path: /assets/images/leolenz.jpg
     alt: "Leonardo Lenzini"
@@ -25,12 +25,12 @@ feature_row4:
     alt: "Giuseppe Fava"
     title: "Giuseppe Fava"
     excerpt: 'Bello, bello in modo assurdo!'
- feature_row5:
+feature_row5:
   - image_path: /assets/images/mfava.jpg
     alt: "Martino Fava"
     title: "Martino Brambati"
     excerpt: 'Bello, bello in modo assurdo, ma meno degli altri!'
- feature_row5:
+feature_row5:
   - image_path: /assets/images/fginelli.jpg
     alt: "Francesco Ginelli"
     title: "Francesco Ginelli"
