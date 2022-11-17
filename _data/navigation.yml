@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /prova/
   - title: "People"
-    url: /splash-page/
+    url: /pages/prova/
   - title: "Recent Works"
-    url: /year-archive/
+    url: /pages/prova/
   - title: "Positions"
-    url: /collection-archive/
+    url: /pages/prova/
   - title: "Research"
-    url: /sitemap/
+    url: /pages/prova/
