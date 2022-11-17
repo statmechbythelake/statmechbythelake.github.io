@@ -3,8 +3,6 @@ title: "People"
 layout: splash
 permalink: /people/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/grupppo.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Belli, belli in modo assurdo."
@@ -45,6 +43,6 @@ feature_row6:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="center" %}
