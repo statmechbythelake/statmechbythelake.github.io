@@ -1,7 +1,7 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
 layout: single
-permalink: /recentwork/
+permalink: /recentworks/
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
