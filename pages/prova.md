@@ -1,6 +1,6 @@
 ---
 title: "Layout: Header Image and Text Readability"
-permalink: /pages/prova/
+permalink: /prova/
 header:
   image: /assets/images/unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
