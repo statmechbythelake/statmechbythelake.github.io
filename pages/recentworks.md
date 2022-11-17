@@ -10,14 +10,14 @@ toc_icon: "cog"
 Una breve lista degli articoli recenti del gruppo. 
 
 ## Disordered System
-[**ARTICOLO 1**](https://github.com/benbalter/jekyll-remote-theme)
+[ARTICOLO 1](https://github.com/benbalter/jekyll-remote-theme)
 
 
-### Flocking
+## Flocking
 
 
 
-### StatMech of Deep Neural Network
+## StatMech of Deep Neural Network
 
 
 
