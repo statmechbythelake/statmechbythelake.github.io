@@ -29,7 +29,9 @@ feature_row4:
   title: "Un fiorino."
   excerpt: "[Un fiorino.](url: https://statmechbythelake.github.io/prova/)"
 ---
-#CIAO A TUTTI
+Una breve lista degli articoli recenti del gruppo. 
+
+## Boh
 
 {% include feature_row id="feature_row2" type="left" %}
 
