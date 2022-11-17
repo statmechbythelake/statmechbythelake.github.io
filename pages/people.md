@@ -5,52 +5,46 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-4.jpg
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
+  overlay_image: /assets/images/grupppo.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Belli, belli in modo assurdo."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - excerpt: 'Il gruppo più bello della StatMech'
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - image_path: /assets/images/leolenz.jpg
+    alt: "Leonardo Lenzini"
+    title: "Leonardo Lenzini"
+    excerpt: 'Short Bio'
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+  - image_path: /assets/images/darkksebs.jpg
+    alt: "Sebastiano Ariosto"
+    title: "Sebastiano Ariosto"
+    excerpt: 'Bello, bello in modo assurdo!'
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+  - image_path: /assets/images/gfava.jpg
+    alt: "Giuseppe Fava"
+    title: "Giuseppe Fava"
+    excerpt: 'Bello, bello in modo assurdo!'
+ feature_row5:
+  - image_path: /assets/images/mfava.jpg
+    alt: "Martino Fava"
+    title: "Martino Brambati"
+    excerpt: 'Bello, bello in modo assurdo, ma meno degli altri!'
+ feature_row5:
+  - image_path: /assets/images/fginelli.jpg
+    alt: "Francesco Ginelli"
+    title: "Francesco Ginelli"
+    excerpt: 'Bello, bello in modo assurdo, ed è il capo!'
 ---
 
 {% include feature_row id="intro" type="center" %}
-
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="center" %}
