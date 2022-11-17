@@ -3,7 +3,11 @@ title: "People"
 layout: splash
 permalink: /people/
 header:
-  image: /assets/images/gruppo.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/gruppo.jpg
+  actions:
+    - label: "CIAO!!!"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Belli, belli in modo assurdo."
 intro: 
