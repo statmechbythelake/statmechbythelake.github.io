@@ -1,7 +1,7 @@
 ---
 title: "People"
 layout: single
-permalink: /people/
+permalink: /people2/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
