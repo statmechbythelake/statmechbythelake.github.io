@@ -30,7 +30,7 @@ feature_row5:
     alt: "Martino Fava"
     title: "Martino Brambati"
     excerpt: 'Bello, bello in modo assurdo, ma meno degli altri!'
-feature_row5:
+feature_row6:
   - image_path: /assets/images/fginelli.jpg
     alt: "Francesco Ginelli"
     title: "Francesco Ginelli"
