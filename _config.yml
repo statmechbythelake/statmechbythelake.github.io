@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/fginelli.jpg"
   bio              : "A bio"
   location         : "Via Valleggio 22, Como"
-  email            :
+  email            : "email@email.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
