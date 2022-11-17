@@ -4,7 +4,6 @@ layout: single
 permalink: /recentworks/
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 Una breve lista degli articoli recenti del gruppo. 
