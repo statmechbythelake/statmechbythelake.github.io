@@ -15,18 +15,12 @@ intro:
   - excerpt: "Il gruppo più bello della StatMech"
 feature_row2:
 - image_path: assets/images/darkksebs.jpg
-  alt: "People"
-  title: "People"
   excerpt: "[Chi siamo](url: https://statmechbythelake.github.io/people/)."
 feature_row3:
 - image_path: /assets/images/darkksebs.jpg
-  alt: "placeholder image 2"
-  title: "Recent Works"
   excerpt: "[Che facciamo](url: https://statmechbythelake.github.io/recentworks/)."
 feature_row4:
 - image_path: /assets/images/darkksebs.jpg
-  alt: "Un fiorino."
-  title: "Un fiorino."
   excerpt: "[Un fiorino.](url: https://statmechbythelake.github.io/prova/)"
 ---
  
