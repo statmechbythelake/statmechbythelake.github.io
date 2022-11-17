@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - /docs # ignore Minimal Mistakes /docs
+  - /assets/images/
 exclude:
   - _pages
   - "*.sublime-project"
