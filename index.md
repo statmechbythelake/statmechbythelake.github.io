@@ -31,10 +31,14 @@ feature_row4:
 ---
  
 
-# Paroline 
+# People 
 
 {% include feature_row id="feature_row2" type="left" %}
 
+
+# Recent Works 
 {% include feature_row id="feature_row3" type="right" %}
 
+
+# Posizioni  
 {% include feature_row id="feature_row4" type="left" %}
