@@ -26,7 +26,7 @@ feature_row4:
   - image_path: /assets/images/gfava.jpg
     alt: "Giuseppe Fava"
     title: "Giuseppe Fava"
-    excerpt: 'Bello, bello in modo assurdo!'
+    excerpt: 'Bello, bello in modo assurdo! '
 feature_row5:
   - image_path: /assets/images/mfava.jpg
     alt: "Martino Fava"
