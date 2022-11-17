@@ -10,7 +10,7 @@ toc_icon: "cog"
 Una breve lista degli articoli recenti del gruppo. 
 
 ## Disordered System
-[ARTICOLO 1](https://github.com/benbalter/jekyll-remote-theme)
+[Strong Casimir-like Forces in Flocking Active Matter](https://arxiv.org/pdf/2211.02644.pdf)
 
 
 ## Flocking
