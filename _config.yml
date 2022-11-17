@@ -155,9 +155,9 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - /docs # ignore Minimal Mistakes /docs
 exclude:
+  - _pages
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
