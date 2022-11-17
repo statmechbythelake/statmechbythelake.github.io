@@ -1,4 +1,4 @@
- ---
+---
 title: "Splash Page"
 layout: splash
 permalink: /prova2/
