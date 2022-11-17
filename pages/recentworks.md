@@ -10,14 +10,16 @@ toc_icon: "cog"
 Una breve lista degli articoli recenti del gruppo. 
 
 ## Disordered System
-[Strong Casimir-like Forces in Flocking Active Matter](https://arxiv.org/pdf/2211.02644.pdf)
+* [Strong Casimir-like Forces in Flocking Active Matter](https://arxiv.org/pdf/2211.02644.pdf)
 
 
 ## Flocking
+* [Strong Casimir-like Forces in Flocking Active Matter](https://arxiv.org/pdf/2211.02644.pdf)
 
 
 
 ## StatMech of Deep Neural Network
+* [Strong Casimir-like Forces in Flocking Active Matter](https://arxiv.org/pdf/2211.02644.pdf)
 
 
 
